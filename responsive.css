@@ -1,0 +1,385 @@
+
+
+@media screen and (max-width:1024px) {
+
+    /* Texkom product section */
+    .item1 img {
+        width: 80%;
+        height: 80%;
+    }
+
+    .item2 img {
+        margin-left: 61%;
+        margin-top: -43%;
+        width: 40%;
+        height: 40%;
+    }
+
+    .item3 img {
+        margin-left: 41%;
+        margin-top: -24%;
+        width: 40%;
+        height: 40%;
+    }
+
+    .item4 img {
+        margin-left: 81%;
+        margin-top: -45%;
+        width: 40%;
+        height: 40%;
+    }
+
+    .item5 img {
+        margin-left: 101%;
+        margin-top: -96%;
+        width: 40%;
+        height: 40%;
+    }
+
+    .item6 img {
+        margin-left: 121%;
+        margin-top: -66%;
+        width: 40%;
+        height: 40%;
+    }
+
+    .product-content {
+        margin-left: 64%;
+    }
+
+    .product-content h5 {
+        font-size: 17px;
+    }
+
+    .product-content p {
+        margin-right: 20%;
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (max-width:980px) {
+
+   
+
+    /* Texkom product section */
+    .product-content {
+        margin-left: 66%;
+    }
+
+    .product-content h5 {
+        font-size: 16px;
+    }
+
+   
+
+}
+
+@media screen and (max-width:800px) {
+
+
+    /* Texkom product section */
+    .product-content {
+        margin-left: 71%;
+        padding-top: 9%
+    }
+
+    .product-content h5 {
+        font-size: 14px;
+    }
+
+    .product-content p {
+        margin-right: 4%;
+    }
+}
+
+
+
+    /* Texkom product  section */
+    .item1 img {
+        width: 60%;
+        height: 60%;
+    }
+
+    .item2 img {
+        margin-left: 46%;
+        margin-top: -35%;
+        width: 30%;
+        height: 30%;
+    }
+
+    .item3 img {
+        margin-left: 31%;
+        margin-top: -20%;
+        width: 30%;
+        height: 30%;
+    }
+
+    .item4 img {
+        margin-left: 61%;
+        margin-top: -35%;
+        width: 30%;
+        height: 30%;
+    }
+
+    .item5 img {
+        margin-left: 76%;
+        margin-top: -77%;
+        width: 30%;
+        height: 30%;
+    }
+
+    .item6 img {
+        margin-left: 91%;
+        margin-top: -57%;
+        width: 30%;
+        height: 30%;
+    }
+
+    .product-content {
+        margin-left: 68%;
+        padding-top: 1%;
+    }
+
+    .product-content h5 {
+        font-size: 16px;
+    }
+
+    .product-content p {
+        font-size: 13px;
+        margin-top: -9px;
+    }
+
+
+}
+
+
+
+
+@media screen and (max-width:640px) {
+
+   
+
+    /* slider section */
+    .texkomSlideCaption h2 {
+        font-size: 50px;
+        margin-top: -38%;
+    }
+
+    .texkomSlideCaption h4 {
+        font-size: 15px;
+    }
+
+   
+
+    /* Texkom product section */
+    .product-content {
+        padding-top: 7%;
+    }
+
+   
+
+}
+
+@media screen and (max-width:600px) {
+   
+
+    /* Texkom product section */
+    #product-slider {
+        background: #142645 url(../images/pcross.png)no-repeat right center;
+    }
+
+    .product-item {
+        margin-left: 10%;
+        margin-bottom: -24px;
+    }
+
+    .product-content {
+        margin-left: 5%;
+        margin-right: 9%;
+        padding-top: 57%;
+    }
+
+    .product-content h5 {
+        font-size: 20px;
+        margin-left: 25%
+    }
+
+    .product-content p {
+        font-size: 18px;
+    }
+
+    
+    /* Texkom contact section */
+    .cbtn {
+        margin-top: -12%;
+    }
+}
+
+
+@media screen and (max-width:480px) {
+
+   
+
+    /* Texkom product section */
+    .product-item {
+        margin-left: 0%;
+    }
+
+    .item1 img {
+        width: 51%;
+        height: 50%;
+    }
+
+    .item2 img {
+        margin-left: 39%;
+        margin-top: -30%;
+        width: 25%;
+        height: 25%;
+    }
+
+    .item3 img {
+        margin-left: 26%;
+        margin-top: -17%;
+        width: 25%;
+        height: 25%;
+    }
+
+    .item4 img {
+        margin-left: 52%;
+        margin-top: -31%;
+        width: 25%;
+        height: 25%;
+    }
+
+    .item5 img {
+        margin-left: 65%;
+        margin-top: -67%;
+        width: 25%;
+        height: 25%;
+    }
+
+    .item6 img {
+        margin-left: 78%;
+        margin-top: -52%;
+        width: 25%;
+        height: 25%;
+    }
+
+    .product-content p {
+        font-size: 15px;
+        margin-right: 0%;
+        margin-left: 0%;
+
+    }
+
+    .product-content h5 {
+        font-size: 18px;
+        margin-left: 20%;
+    }
+
+    .product-content-title2 {
+        padding-top: 11px
+    }
+
+
+}
+
+
+@media screen and (max-width:360px) {
+   
+
+    /* Texkom product section */
+    .product-item {
+        margin-left: 7%;
+    }
+
+    .item1 img {
+        width: 46%;
+        height: 46%;
+    }
+
+    .item2 img {
+        margin-left: 36%;
+        margin-top: -29%;
+        width: 22%;
+        height: 22%;
+    }
+
+    .item3 img {
+        margin-left: 24%;
+        margin-top: -18%;
+        width: 22%;
+        height: 23%;
+    }
+
+    .item4 img {
+        margin-left: 47%;
+        margin-top: -30%;
+        width: 22%;
+        height: 22%;
+    }
+
+    .item5 img {
+        margin-left: 59%;
+        margin-top: -65%;
+        width: 22%;
+        height: 22%;
+    }
+
+    .item6 img {
+        margin-left: 70%;
+        margin-top: -54%;
+        width: 22%;
+        height: 22%;
+    }
+
+    .product-content {
+        margin-left: 0%;
+    }
+
+
+}
+
+@media screen and (max-width:320px) {
+
+
+    /* slider section */
+    .texkomSlideCaption h4 {
+        font-size: 11px;
+    }
+
+
+    /* Texkom product section */
+    .product-content {
+        margin-left: -13%;
+    }
+
+    .product-content p {
+        margin-right: 3%;
+        margin-left: 11%;
+    }
+
+    .item2 img {
+        margin-top: -29%;
+    }
+
+    .item3 img {
+        margin-top: -21%;
+    }
+
+    .item4 img {
+        margin-left: 48%;
+        margin-top: -36%;
+    }
+
+    .item5 img {
+        margin-top: -73%
+    }
+
+    .item6 img {
+        margin-left: 71%;
+        margin-top: -64%;
+    }
+
+}

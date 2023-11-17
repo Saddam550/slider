@@ -1,0 +1,127 @@
+#product-slider {
+    background: #142645 url(../images/pcross.png)no-repeat right center;
+}
+
+.product-title h3 {
+    text-transform: uppercase;
+    margin-bottom: 3px;
+    font-size: 20px;
+    color: #fff;
+    padding-top: 15px;
+}
+
+.product-item {
+    float: left;
+}
+
+.item2 img {
+    margin-left: 76%;
+    margin-top: -55%;
+}
+
+.item3 img {
+    margin-left: 51%;
+    margin-top: -29%;
+}
+
+.item4 img {
+    margin-left: 101%;
+    margin-top: -54%;
+}
+
+.item5 img {
+    margin-left: 126%;
+    margin-top: -114%;
+}
+
+.item6 img {
+    margin-left: 151%;
+    margin-top: -74%;
+}
+
+.product-content {
+    text-align: center;
+    margin-left: 62%;
+    padding-top: 5%;
+}
+
+.product-content h5 {
+    color: #c09c6f;
+    font-size: 18px;
+    margin-left: -6%;
+}
+
+.product-content p {
+    color: #fff;
+    margin-right: 26%;
+    font-size: 15px;
+    text-align: right;
+}
+
+.product-content h5 {
+    color: #c09c6f;
+    font-size: 18px;
+    margin-left: -6%;
+}
+
+.product-content-title2 {
+    padding-top: 30px;
+    padding-left: 56px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fancybox-margin {
+    margin-right: 51px;
+}
+
